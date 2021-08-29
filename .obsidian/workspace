@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "a46818f526b24d56",
+    "type": "split",
+    "children": [
+      {
+        "id": "962eef4a6045ae0c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/Vectors.md",
+            "mode": "source"
+          }
+        },
+        "group": "fa15283c1b136234"
+      },
+      {
+        "id": "e9927cdf715d72bd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/Vectors.md",
+            "mode": "preview"
+          }
+        },
+        "group": "fa15283c1b136234"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ede781f06660584d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f4ce4edbc0b3e78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94468eb2bf551b54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b31c28fc654c2498",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0c2f6abcc0abe8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b9f4a5328f245b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c569e9b8083e9bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/Vectors.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "962eef4a6045ae0c",
+  "lastOpenFiles": [
+    "pages/Vectors.md",
+    "Main.md",
+    "pages/Dimensions.md",
+    "pages/Vector.md",
+    "README.md",
+    "Dimensions.md",
+    "pages/Main.md",
+    "Vector.md",
+    "pages/Differentials.md",
+    "pages/Function-Related Integrals.md"
+  ]
+}
